@@ -1,0 +1,261 @@
+.bigbox{
+    height: 100%;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.carallin {
+    height: auto;
+    width: 50%;    
+
+}
+
+.payment{
+    height: fit-content;
+    width: 30%;
+    padding: 5px;
+    box-shadow: 1px 0px 5px rgba(0,0,0,.15);
+
+}
+
+ 
+.datebox{
+    height: 168;
+    width: 76;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-between;
+    
+}
+
+.datebox a{
+    font-size: 12px;
+}
+
+.takecar{
+    height: 50%;
+    width: 50%;
+    border-bottom: 1px solid rgb(224, 224, 224);
+    border-left: 1px solid rgb(224, 224, 224);
+    padding: 5px;
+
+}
+
+.givecar{
+    height: 50%;
+    width: 50%;
+    border-bottom: 1px solid rgb(223, 223, 223);
+    padding: 5px;
+}
+
+.starttext{
+    text-align: start;
+}
+
+.gray {
+    color: gray;
+}
+
+.juti-between {
+    justify-content: space-between;
+}
+
+.detail-price{
+    padding: 5px;
+}
+
+.detail-price div{
+    padding: 5px;
+}
+
+.depositebox{
+    height: auto;
+    width: auto;
+    background-color: rgb(255, 232, 164);
+    padding: 5px; 
+    
+}
+
+.depositebox .flex{
+    justify-content: space-between;
+    
+}
+
+.submitcar {
+    margin-top: 5px;
+    background: rgb(60, 60, 255);
+    color: #FFF;
+    font-size: 16px;
+    border: none;
+    padding: 20px;
+    box-shadow: 1px 0px 5px rgba(0,0,0,.15);
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.couponinput {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 500px;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+
+.carname{
+    width: auto;
+    padding-right: 75px;
+    padding-top: 10px;
+}
+
+.carname .flex{
+    justify-content: space-between;
+    text-align: center;
+}
+
+.toppad {
+    padding-top: 10px;
+}
+
+.toppad p{
+    width: 60%;
+    font-size: 13px;
+}
+
+.carpic {
+    width: 100%;
+}
+
+.rightpad{
+    padding-right: 10px;
+}
+
+.info {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-size: 13px;
+    box-shadow: 1px 0px 5px rgba(0,0,0,.15);
+    margin-top: 20px;
+
+}
+
+.info .choosebox{
+    background-color: rgb(255, 255, 255);
+    color: #153cff;
+    width: 100%;
+    
+
+}
+
+.info .choosebox-clicked{
+    width: 100%;
+
+}
+
+.detail-info{
+    padding: 10px;
+    max-width: 100%;
+    height: 250px;
+    background-color: #ffffff;
+    box-shadow: 1px 0px 5px rgba(0,0,0,.15);
+    
+}
+
+.should-to-know{
+    width: 90%;
+    font-size: 14px;
+    margin-left: 5%;
+}
+
+.should-to-know li{
+    padding-bottom: 5px;
+}
+
+.detail-car{
+    width: 100%;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.detail-car div{
+    width: 100%;
+}
+
+.detail-car-div div{
+    background-color: rgba(244,244,244,244);
+    padding: 5px;
+    width: 90%;
+}
+
+.detail-car-div .flex{
+    border-top: 1px solid rgb(213, 213, 213) ;
+}
+
+.service-by{
+    max-width: 100% ;
+    min-height: 560px;
+    max-height: fit-content;
+    margin-top: 20px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 1px 0px 5px rgba(0,0,0,.15);
+    background: #FFF;
+}
+
+.service-by .info{
+    border-bottom: 1px solid rgb(224, 224, 224);
+    border-top: 1px solid rgb(224, 224, 224);
+
+}
+.service-by p{
+    padding-left: 10px;
+
+}
+
+.service-by div{
+    box-shadow: 0px 0px 0px rgba(0,0,0,.15);
+   
+}
+
+.border-box{
+    height: fit-content;
+    border: 1px solid rgb(226, 226, 226) ;
+    margin-top: 10px;
+}
+.border-box div{
+    padding: 10px;
+}
+
+.haed{
+    border-bottom:1px solid rgb(224, 224, 224) ;
+}
+
+.detail-service{
+    margin-left: 10px;
+    margin-right: 10px;
+    max-width: 100%;
+    background-color: #ffffff;
+
+}
+
+.level {
+    background-color: rgb(224, 224, 224);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.reviwe{
+    background-color: rgb(172, 188, 255);
+    padding: 20px;
+    margin: 20px;
+    min-height: 20px;
+}

@@ -1,0 +1,165 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mitr&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Mitr&display=swap');
+.cardcar {
+    border: 1px solid black;
+    width: 660px;
+    height: 300px;
+    padding: 2px;
+    cursor: pointer;
+    margin-top: 30px;
+    
+}
+
+.cardcar:hover {
+    scale: 1.025;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+/* image */
+.avatar{
+    height: 100%;
+    width: 50%;
+}
+
+carnamesmall{
+    font-size: 10px;
+    color: gray;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+}
+
+.vendor_logo{
+    background-image: url('https://drivehubv3.s3-ap-southeast-1.amazonaws.com/logo/ad2d62b0-8d67-4173-b6db-6926ff1f375b/medium.png');
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.imgsizesmall{
+    height: 38px;
+    width: 38px;
+}
+
+/* text */
+
+h2 {
+    font-family: "Mitr";
+    font-weight: bold;
+    font-size: 20px;
+    max-width: 100%;
+}
+
+small {
+    font-family: "Bai Jamjuree";
+    font-size: 10px;
+}
+
+ready {
+    text-align: right;
+    font-family: "Bai Jamjuree";
+    padding-left: 80px;
+    font-size: 14px;
+    color: green;
+}
+
+svg {
+    width: 15px;
+    height: 15px;
+}
+
+.detail {
+    font-size: 12px;
+    width: 165px;
+    height: 200px;
+
+}
+
+.header {
+    width: auto;
+    height: auto;
+}
+
+.price {
+    width: 75px;
+    height: 57px;
+    background-color: rgb(237, 237, 237);
+    margin-left: 70px;
+}
+
+h3{
+    color: blue;
+    margin:0 auto;
+}
+
+.seedetail{
+    margin-left: 75px;
+    width: 200px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+}
+
+.localbadge{
+    background: rgb(255, 158, 65);
+    color: rgb(255, 255, 255);
+    width: 54px;
+    height: 19px;
+    font-weight: bold;
+    position: absolute; 
+    font-size: 14px;
+}
+
+.creditbadge {
+    background: rgb(255, 177, 125);
+    color: rgb(56, 56, 56);
+    width: auto;
+    height: 20px;
+    font-weight: bold;
+    font-size: 8px;
+
+}
+
+.moreinfo {
+    background: rgb(255, 250, 110);
+    color: rgb(56, 56, 56);
+    width: auto;
+    height: 20px;
+    font-weight: bold;
+    font-size: 8px;
+}
+
+.toppad{
+    padding-top: 5px;
+}
+
+.leftpad{
+    padding-left: 5px;
+}
+
+.leftmar{
+    margin-left: 5px;
+}
+
+.half {
+    width: 50%;
+    height: 100%;
+}
+
+.center {
+        display: flex; 
+        justify-content: center; 
+}
+
+.topmar{
+    margin-top: 5px;
+}
+

@@ -1,0 +1,42 @@
+.gallery-wrapper {
+    background-color: #fffefe;
+    box-sizing: border-box;
+    height: 300px;
+    overflow: hidden;
+    
+  }
+  
+  .gallery-scroll {
+    box-sizing: border-box;
+    height: 300px;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+  
+  .gallery {
+    background-color: #fbfbfb;
+    display: flex;
+    box-sizing: border-box;
+    width: max-content;
+    height: 300px;
+    padding: 18px;
+    font-family: "Mitr";
+    font-size: 18px;
+  }
+  
+  .items {
+    box-sizing: border-box;
+    width: 226px;
+    height: 226px;
+    padding: 17px 14px; 
+    margin-right: 50px;
+
+  }
+  
+  .items img {
+    display: flex;
+    border: 2px solid #000000;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+  }

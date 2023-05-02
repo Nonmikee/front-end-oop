@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Susuki swift 2015",
+        "type":"อีโคคาร์",
+        "price":"500",
+        "gear":"ออโต้",
+        "max":"4",
+        "src":"https://drivehubv3.s3-ap-southeast-1.amazonaws.com/cars/2a6b89d3-7516-4d8e-a7d7-7c332e1ec598/photos/8477d2bb-c469-4f1f-835b-8a97da509ee5/large.png"
+    },
+    {
+        "name":"Toyota Yaris 2020",
+        "type":"รถขนาดเล็ก",
+        "price":"589",
+        "gear":"ออโต้",
+        "max":"4",
+        "src":"https://i.ndtvimg.com/progold/293107_thumb.jpg"
+    },
+    {
+        "name":"Toyota Commuter 2019",
+        "type":"รถขนาดกลาง",
+        "price":"979",
+        "gear":"ออโต้",
+        "max":"4",
+        "src":"https://drivehubv3.s3-ap-southeast-1.amazonaws.com/cars/2fb314cb-5e75-4c9b-9861-79a3f0b9307f/photos/c58271d0-c413-4740-9fba-a8e0a0220511/large.png"
+    }
+]

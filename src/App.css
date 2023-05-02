@@ -1,0 +1,27 @@
+.app-header {
+    border-bottom: 1px solid gray;
+    height: 10px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}  
+
+.app-header-logo{
+    height: 30px;
+    justify-content: left;
+    align-items: center;
+}
+
+.app-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* จัดให้แถว&สองคอลัมน์เท่ากัน */
+    column-gap: 16px;
+    row-gap: 16px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}

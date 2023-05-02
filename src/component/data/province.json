@@ -1,0 +1,144 @@
+[
+    {
+        "value": "Bangkok", 
+        "name": "กรุงเทพมหานคร"
+    },
+    {
+        "value":"Samut-Prakan",
+        "name": "สมุทรปราการ"
+    },
+    {
+        "value":"Nonthaburi",
+        "name":"นนทบุรี"
+    },
+    {
+        "value":"Pathum-Thani",
+        "name":"ปทุมธานี"
+    },
+    {
+        "value":"Phra-Nakhon-Si-Ayutthaya"        ,
+        "name":"พระนครศรีอยุธยา"
+    },
+    {
+        "value":"Ang-Thong",
+        "name":"อ่างทอง"
+    },
+    {
+        "value":"Lopburi",
+        "name":"ลพบุรี"
+    },
+    {
+        "value": "Singburi" ,
+        "name":"สิงห์บุรี"
+    },
+    {
+        "value":"Chai-Nat" ,
+        "name":"ชัยนาท"
+    },
+    {
+        "value":"Saraburi" ,
+        "name":"สระบุรี"
+    },
+    {
+        "value":"Chonburi" ,
+        "name":"ชลบุรี"
+    },
+    {
+        "value":"Rayong" ,
+        "name":"ระยอง"
+    },
+    {
+        "value":"Chanthaburi",
+        "name":"จันทบุรี"
+    },
+    {
+        "value":"trat",
+        "name":"ตราด"
+    },
+    {
+        "value":"Chachoengsao",
+        "name":"ฉะเชิงเทรา"
+    },
+    {
+        "value":"Prachinburi",
+        "name":"ปราจีนบุรี"
+    },
+    {
+        "value":"Nakhon-Nayok",
+        "name":"นครนายก"
+    },
+    {
+        "value":"Sa-Kaeo",
+        "name":"สระแก้ว"
+    },
+    {
+        "value":"Nakhon-Ratchasima",
+        "name":"นครราชสีมา"
+    },
+    {
+        "value":"Buri-Ram",
+        "name":"บุรีรัมย์"
+    },
+    {
+        "value":"Surin",
+        "name":"สุรินทร์"
+    },
+    {
+        "value":"Si-Saket",
+        "name":"ศรีสะเกษ"
+    },
+    {
+        "value":"Ubon-Ratchathani",
+        "name":"อุบลราชธานี"
+    },
+    {
+        "value":"Yasothon",
+        "name":"ชัยภูมิ"
+    },
+    {
+        "value":"Amnat-Charoen",
+        "name":"อำนาจเจริญ"
+    },
+    {
+        "value":"Bueng-Kan",
+        "name":"บึงกาฬ"
+    },
+    {
+        "value":"Nong-Bua-Lamphu",
+        "name":"หนองบัวลำภู"
+    },
+    {
+        "value":"Khon-Kaen",
+        "name":"ขอนแก่น"
+    },
+    {
+        "value":"Udon-Thani",
+        "name":"อุดรธานี"
+    },
+    {
+        "value":"Loei",
+        "name":"เลย"
+    },
+    {
+        "value":"Nong-Khai",
+        "name":"หนองคาย"
+    },
+    {
+        "value":"Maha-Sarakham",
+        "name":"มหาสารคาม"
+    },
+    {
+        "value":"Roi-Et",
+        "name":"ร้อยเอ็ด"
+    },
+    {
+        "value":"Kalasin",
+        "name":"กาฬสินธุ์"
+    },
+    {
+        "value":"Sakon-Nakhon",
+        "name":"สกลนคร"
+    }
+]
+
+
